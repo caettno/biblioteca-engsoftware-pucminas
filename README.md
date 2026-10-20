@@ -1,6 +1,6 @@
 # Biblioteca de Engenharia de Software
 
-![Biblioteca de Engenharia de Software](assets/banner.png)
+![Biblioteca de Engenharia de Software](assets/imgs/banner.png)
 
 ## Visão geral
 
@@ -66,6 +66,7 @@ Exemplo de caminho completo:
 
 - Igor Caetano — @caettno
 - Breno Sales —  @BreNoRzen
+- Vinicius Reis —  @viniciusreis104
 
 ## Tecnologias
 
